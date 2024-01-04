@@ -1,0 +1,121 @@
+Date,Order_Type,Payment_Type,Flavors,Extra_Shots,Candy_Toppings,Drink_Size,Total_Cost,Month
+2023-03-01,In-store,Cash,"Island Sunset, Island Mary-Jane",2,1,16 oz,10.00,March
+2023-03-05,DoorDash,Card,"Island Hypnotical, Island Rita",1,0,24 oz,14.00,March
+2023-04-02,In-store,Card,"Island Hurricane, Island Pina Colada",3,1,32 oz,18.00,April
+2023-04-15,DoorDash,Cash,"Island Sunset, Island Strawberry",0,1,16 oz,8.00,April
+2023-05-03,In-store,Card,"Island Peach, Island Strawberry",1,0,24 oz,12.00,May
+2023-05-18,DoorDash,Cash,"Island Rita, Island Melon Bomb",2,1,32 oz,20.00,May
+2023-06-01,In-store,Card,"Island Pina Colada, Island Sunset",0,0,16 oz,7.00,June
+2023-06-12,DoorDash,Cash,"Island Mary-Jane, Island Melon Bomb",1,1,24 oz,15.00,June
+2023-07-02,In-store,Card,"Island Hurricane, Island Mary-Jane",2,0,32 oz,18.00,July
+2023-07-15,DoorDash,Cash,"Island Peach, Island Rita",1,0,16 oz,9.00,July
+2023-08-01,In-store,Cash,"Island Hypnotical, Island Pina Colada",3,1,24 oz,14.00,August
+2023-08-18,DoorDash,Card,"Island Strawberry, Island Mary-Jane",0,1,32 oz,20.00,August
+2023-09-02,In-store,Cash,"Island Rita, Island Sunset",2,0,16 oz,8.00,September
+2023-09-15,DoorDash,Card,"Island Melon Bomb, Island Hypnotical",1,0,24 oz,12.00,September
+2023-10-01,In-store,Card,"Island Mary-Jane, Island Rita",0,1,32 oz,19.00,October
+2023-10-18,DoorDash,Cash,"Island Peach, Island Sunset",1,1,16 oz,10.00,October
+2023-11-02,In-store,Card,"Island Melon Bomb, Island Hurricane",2,0,24 oz,15.00,November
+2023-11-15,DoorDash,Cash,"Island Pina Colada, Island Hypnotical",1,0,32 oz,19.00,November
+2023-12-01,In-store,Cash,"Island Mary-Jane, Island Strawberry",0,1,16 oz,9.00,December
+2023-12-18,DoorDash,Card,"Island Sunset, Island Rita",3,1,24 oz,16.00,December
+2023-01-02,In-store,Card,"Island Mary-Jane, Island Hurricane",2,0,32 oz,17.00,January
+2023-01-15,DoorDash,Cash,"Island Sunset, Island Rita",1,1,16 oz,9.00,January
+2023-02-01,In-store,Card,"Island Peach, Island Melon Bomb",3,1,24 oz,14.00,February
+2023-02-15,DoorDash,Cash,"Island Hypnotical, Island Strawberry",0,0,32 oz,18.00,February
+2023-03-02,In-store,Card,"Island Pina Colada, Island Strawberry",2,1,32 oz,18.00,March
+2023-03-15,DoorDash,Cash,"Island Mary-Jane, Island Hurricane",1,0,16 oz,9.00,March
+2023-04-01,In-store,Card,"Island Sunset, Island Rita",3,1,24 oz,16.00,April
+2023-04-18,DoorDash,Cash,"Island Peach, Island Melon Bomb",0,0,32 oz,18.00,April
+2023-05-01,In-store,Card,"Island Hypnotical, Island Strawberry",2,1,16 oz,10.00,May
+2023-05-18,DoorDash,Cash,"Island Sunset, Island Rita",1,1,24 oz,15.00,May
+2023-06-01,In-store,Card,"Island Pina Colada, Island Mary-Jane",0,0,32 oz,18.00,June
+2023-06-15,DoorDash,Cash,"Island Peach, Island Melon Bomb",2,1,16 oz,11.00,June
+2023-07-01,In-store,Card,"Island Rita, Island Strawberry",3,1,24 oz,16.00,July
+2023-07-18,DoorDash,Cash,"Island Mary-Jane, Island Hurricane",0,0,32 oz,18.00,July
+2023-08-01,In-store,Card,"Island Hypnotical, Island Strawberry",2,1,16 oz,10.00,August
+2023-08-15,DoorDash,Cash,"Island Pina Colada, Island Rita",1,1,24 oz,15.00,August
+2023-09-01,In-store,Card,"Island Sunset, Island Mary-Jane",0,0,32 oz,18.00,September
+2023-09-18,DoorDash,Cash,"Island Melon Bomb, Island Hurricane",2,1,16 oz,11.00,September
+2023-10-01,In-store,Card,"Island Rita, Island Mary-Jane",3,1,24 oz,16.00,October
+2023-10-18,DoorDash,Cash,"Island Peach, Island Melon Bomb",0,0,32 oz,18.00,October
+2023-11-01,In-store,Card,"Island Mary-Jane, Island Hypnotical",2,1,16 oz,10.00,November
+2023-11-15,DoorDash,Cash,"Island Sunset, Island Pina Colada",1,1,24 oz,15.00,November
+2023-12-01,In-store,Card,"Island Strawberry, Island Rita",0,0,32 oz,18.00,December
+2023-12-18,DoorDash,Cash,"Island Melon Bomb, Island Hurricane",2,1,16 oz,11.00,December
+2023-01-02,In-store,Cash,"Island Hypnotical, Island Mary-Jane",2,1,32 oz,17.00,January
+2023-01-15,DoorDash,Card,"Island Pina Colada, Island Rita",1,0,16 oz,9.00,January
+2023-02-01,In-store,Cash,"Island Sunset, Island Hurricane",3,1,24 oz,14.00,February
+2023-02-15,DoorDash,Card,"Island Peach, Island Strawberry",0,0,32 oz,18.00,February
+2023-03-01,In-store,Cash,"Island Mary-Jane, Island Melon Bomb",2,1,32 oz,18.00,March
+2023-03-15,DoorDash,Card,"Island Sunset, Island Rita",1,0,16 oz,9.00,March
+2023-04-01,In-store,Cash,"Island Pina Colada, Island Strawberry",3,1,24 oz,16.00,April
+2023-04-18,DoorDash,Card,"Island Hypnotical, Island Hurricane",0,0,32 oz,18.00,April
+2023-05-01,In-store,Cash,"Island Mary-Jane, Island Sunset",2,1,16 oz,10.00,May
+2023-05-18,DoorDash,Card,"Island Rita, Island Melon Bomb",1,1,24 oz,15.00,May
+2023-06-01,In-store,Cash,"Island Strawberry, Island Pina Colada",0,0,32 oz,18.00,June
+2023-06-15,DoorDash,Card,"Island Hypnotical, Island Mary-Jane",2,1,16 oz,11.00,June
+2023-07-01,In-store,Cash,"Island Sunset, Island Mary-Jane",3,1,24 oz,16.00,July
+2023-07-18,DoorDash,Card,"Island Peach, Island Melon Bomb",0,0,32 oz,18.00,July
+2023-08-01,In-store,Cash,"Island Mary-Jane, Island Hypnotical",2,1,16 oz,10.00,August
+2023-08-15,DoorDash,Card,"Island Strawberry, Island Rita",1,1,24 oz,15.00,August
+2023-09-01,In-store,Cash,"Island Rita, Island Pina Colada",0,0,32 oz,18.00,September
+2023-09-18,DoorDash,Card,"Island Sunset, Island Hurricane",2,1,16 oz,11.00,September
+2023-10-01,In-store,Cash,"Island Melon Bomb, Island Mary-Jane",3,1,24 oz,16.00,October
+2023-10-18,DoorDash,Card,"Island Hypnotical, Island Strawberry",0,0,32 oz,18.00,October
+2023-11-01,In-store,Cash,"Island Peach, Island Sunset",2,1,16 oz,10.00,November
+2023-11-15,DoorDash,Card,"Island Mary-Jane, Island Rita",1,1,24 oz,15.00,November
+2023-12-01,In-store,Cash,"Island Strawberry, Island Melon Bomb",0,0,32 oz,18.00,December
+2023-12-18,DoorDash,Card,"Island Sunset, Island Pina Colada",2,1,16 oz,11.00,December
+2023-01-02,In-store,Cash,"Island Hypnotical",2,1,16 oz,9.00,January
+2023-01-15,DoorDash,Card,"Island Mary-Jane",1,0,32 oz,14.00,January
+2023-02-01,In-store,Cash,"Island Sunset",3,1,24 oz,13.00,February
+2023-02-15,DoorDash,Card,"Island Pina Colada",0,0,32 oz,18.00,February
+2023-03-01,In-store,Cash,"Island Mary-Jane",2,1,16 oz,10.00,March
+2023-03-15,DoorDash,Card,"Island Rita",1,0,32 oz,15.00,March
+2023-04-01,In-store,Cash,"Island Hypnotical",3,1,24 oz,16.00,April
+2023-04-18,DoorDash,Card,"Island Melon Bomb",0,0,32 oz,18.00,April
+2023-05-01,In-store,Cash,"Island Sunset",2,1,16 oz,10.00,May
+2023-05-18,DoorDash,Card,"Island Rita",1,1,24 oz,15.00,May
+2023-06-01,In-store,Cash,"Island Pina Colada",0,0,32 oz,18.00,June
+2023-06-15,DoorDash,Card,"Island Strawberry",2,1,16 oz,11.00,June
+2023-07-01,In-store,Cash,"Island Mary-Jane",3,1,24 oz,16.00,July
+2023-07-18,DoorDash,Card,"Island Sunset",0,0,32 oz,18.00,July
+2023-08-01,In-store,Cash,"Island Hypnotical",2,1,16 oz,10.00,August
+2023-08-15,DoorDash,Card,"Island Strawberry",1,1,24 oz,15.00,August
+2023-09-01,In-store,Cash,"Island Rita",0,0,32 oz,18.00,September
+2023-09-18,DoorDash,Card,"Island Pina Colada",2,1,16 oz,11.00,September
+2023-10-01,In-store,Cash,"Island Melon Bomb",3,1,24 oz,16.00,October
+2023-10-18,DoorDash,Card,"Island Mary-Jane",0,0,32 oz,18.00,October
+2023-11-01,In-store,Cash,"Island Peach",2,1,16 oz,10.00,November
+2023-11-15,DoorDash,Card,"Island Hypnotical",1,1,24 oz,15.00,November
+2023-12-01,In-store,Cash,"Island Sunset",0,0,32 oz,18.00,December
+2023-12-18,DoorDash,Card,"Island Pina Colada",2,1,16 oz,11.00,December
+2023-01-02,In-store,Cash,"Island Hypnotical, Island Mary-Jane",2,1,32 oz,17.00,January
+2023-01-15,DoorDash,Card,"Island Pina Colada",1,0,16 oz,9.00,January
+2023-02-01,In-store,Cash,"Island Sunset",3,1,24 oz,13.00,February
+2023-02-15,DoorDash,Card,"Island Peach, Island Strawberry",0,0,32 oz,18.00,February
+2023-03-01,In-store,Cash,"Island Mary-Jane",2,1,16 oz,10.00,March
+2023-03-15,DoorDash,Card,"Island Rita",1,0,32 oz,15.00,March
+2023-04-01,In-store,Cash,"Island Hypnotical",3,1,24 oz,16.00,April
+2023-04-18,DoorDash,Card,"Island Melon Bomb",0,0,32 oz,18.00,April
+2023-05-01,In-store,Cash,"Island Sunset, Island Mary-Jane",2,1,16 oz,10.00,May
+2023-05-18,DoorDash,Card,"Island Rita",1,1,24 oz,15.00,May
+2023-06-01,In-store,Cash,"Island Pina Colada",0,0,32 oz,18.00,June
+2023-06-15,DoorDash,Card,"Island Strawberry",2,1,16 oz,11.00,June
+2023-07-01,In-store,Cash,"Island Mary-Jane",3,1,24 oz,16.00,July
+2023-07-18,DoorDash,Card,"Island Sunset",0,0,32 oz,18.00,July
+2023-08-01,In-store,Cash,"Island Hypnotical",2,1,16 oz,10.00,August
+2023-08-15,DoorDash,Card,"Island Strawberry",1,1,24 oz,15.00,August
+2023-09-01,In-store,Cash,"Island Rita",0,0,32 oz,18.00,September
+2023-09-18,DoorDash,Card,"Island Pina Colada",2,1,16 oz,11.00,September
+2023-10-01,In-store,Cash,"Island Melon Bomb",3,1,24 oz,16.00,October
+2023-10-18,DoorDash,Card,"Island Mary-Jane",0,0,32 oz,18.00,October
+2023-11-01,In-store,Cash,"Island Peach",2,1,16 oz,10.00,November
+2023-11-15,DoorDash,Card,"Island Hypnotical",1,1,24 oz,15.00,November
+2023-12-01,In-store,Cash,"Island Sunset",0,0,32 oz,18.00,December
+2023-12-18,DoorDash,Card,"Island Pina Colada",2,1,16 oz,11.00,December
+
+
+
+
